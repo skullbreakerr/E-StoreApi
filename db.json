@@ -1,1 +1,38 @@
-
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Laptops"
+    },
+    {
+      "id": 2,
+      "title": "Fridges"
+    },
+    {
+      "id": 3,
+      "title": "TV's"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "catId": 1,
+      "title": "Samsung notebook"
+    },
+    {
+      "id": 2,
+      "catId": 2,
+      "title": "Whirlpool fridge"
+    },
+    {
+      "id": 3,
+      "catId": 1,
+      "title": "Dell Vostro 1500"
+    },
+    {
+      "id": 4,
+      "catId": 1,
+      "title": "Asus zenbook 2"
+    }
+  ]
+}
